@@ -1,0 +1,16 @@
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\bin\Debug\netcoreapp3.1\PacketMaker.exe
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\bin\Debug\netcoreapp3.1\PacketMaker.deps.json
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\bin\Debug\netcoreapp3.1\PacketMaker.runtimeconfig.json
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\bin\Debug\netcoreapp3.1\PacketMaker.runtimeconfig.dev.json
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\bin\Debug\netcoreapp3.1\PacketMaker.dll
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\bin\Debug\netcoreapp3.1\PacketMaker.pdb
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\obj\Debug\netcoreapp3.1\PacketMaker.csprojAssemblyReference.cache
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\obj\Debug\netcoreapp3.1\PacketMaker.AssemblyInfoInputs.cache
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\obj\Debug\netcoreapp3.1\PacketMaker.AssemblyInfo.cs
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\obj\Debug\netcoreapp3.1\PacketMaker.dll
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\obj\Debug\netcoreapp3.1\PacketMaker.pdb
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Core.dll
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\kaios\Desktop\PacketMaker\PacketMaker\obj\Debug\netcoreapp3.1\PacketMaker.csproj.ResolveComReference.cache
